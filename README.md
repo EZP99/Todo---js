@@ -1,15 +1,8 @@
-# Webpack Started
+# TODO app
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es un pequeño proyecto utilizando las tecnologias de Webpack, JavaScript, CSS y HTML.
 
-### Notas:
-Recuerden reconstrucir los modulos de Node.
-```
-npm install 
-```
+Para agregar una tarea simplemente escribe el nombre de la tarea y presiona Enter. 
 
-Y para construir el build, recordar :
-
-```
-npm run build
-```
+## Nota 
+No importa si recargas el navegador ya que se utiliza el Local Storage para guardar las tareas. 
